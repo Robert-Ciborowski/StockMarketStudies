@@ -5,6 +5,8 @@ __pycache__/
 
 /PumpBot-API/config
 
+.idea
+
 # Keys
 keys.json
 
