@@ -1,0 +1,2 @@
+model_checkpoint_path: "spy_model"
+all_model_checkpoint_paths: "spy_model"
